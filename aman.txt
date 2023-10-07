@@ -5,9 +5,5 @@ donot give up
 okk
 // authorname amansahu
 mai accha hu
-<<<<<<< HEAD
 ghar kab jaa rahe hai
 deepawali pe
-okk jao ghar pe
-=======
->>>>>>> parent of bc59816 (Update aman.txt)
